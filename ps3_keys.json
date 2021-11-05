@@ -1,0 +1,29 @@
+{
+  "buttons": {
+      "x": 0,
+      "circle": 1,
+      "square": 2,
+      "triangle": 3,
+      "L1": 4,
+      "R1": 5,
+      "L2": 6,
+      "R2": 7,
+      "select": 8,
+      "start": 9,
+      "PS": 10,
+      "left_stick_click": 11,
+      "right_stick_click": 12,
+      "up_arrow": 13,
+      "down_arrow": 14,
+      "left_arrow": 15,
+      "right_arrow": 16
+  },
+  "analogs": {
+      "left_horiz": 0,
+      "left_vert": 1,
+      "left_trigger": 2,
+      "right_horiz": 3,
+      "right_vert": 4,
+      "right_trigger": 5
+  }
+}
